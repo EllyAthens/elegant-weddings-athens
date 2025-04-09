@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Elegant Weddings Athens by Elly – Υπηρεσίες διοργάνωσης γάμου στην Αθήνα με στυλ και προσωπικότητα.">
+  <title>Elegant Weddings Athens by Elly</title>
+  <style>
+    body {
+      font-family: 'Georgia', serif;
+      margin: 0;
+      padding: 0;
+      background-color: #fffaf7;
+      color: #333;
+    }
+    header {
+      background-color: #f3e6e3;
+      text-align: center;
+      padding: 3em 1em;
+    }
+    h1 {
+      font-size: 2.5em;
+      margin-bottom: 0.3em;
+    }
+    .tagline {
+      font-style: italic;
+      color: #a67c52;
+    }
+    section {
+      padding: 2em;
+      max-width: 800px;
+      margin: auto;
+    }
+    .services ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    .services li {
+      margin-bottom: 1em;
+    }
+    footer {
+      background-color: #f3e6e3;
+      text-align: center;
+      padding: 1em;
+      font-size: 0.9em;
+    }
+    .contact {
+      text-align: center;
+      margin-top: 2em;
+    }
+    .contact a {
+      color: #a67c52;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Elegant Weddings Athens</h1>
+    <div class="tagline">by Elly – Όνειρα που γίνονται πραγματικότητα</div>
+  </header>
+
+  <section>
+    <h2>Σχετικά με εμένα</h2>
+    <p>Είμαι η Elly, wedding planner με αγάπη για την κομψότητα, τη λεπτομέρεια και την ομορφιά. Δημιουργώ μοναδικές εμπειρίες για ζευγάρια που θέλουν έναν γάμο γεμάτο στυλ και συναίσθημα στην καρδιά της Αθήνας.</p>
+  </section>
+
+  <section class="services">
+    <h2>Υπηρεσίες</h2>
+    <ul>
+      <li><strong>Οργάνωση Γάμου:</strong> Από την ιδέα μέχρι την υλοποίηση</li>
+      <li><strong>Στολισμός & Αισθητική:</strong> Θέματα, χρώματα, ανθοσυνθέσεις</li>
+      <li><strong>Συντονισμός Ημέρας:</strong> Για να ζήσεις τη μέρα σου χωρίς άγχος</li>
+      <li><strong>Συμβουλευτική & Budget Planning:</strong> Μεθοδική προσέγγιση για κάθε βήμα</li>
+    </ul>
+  </section>
+
+  <section class="contact">
+    <h2>Επικοινωνία</h2>
+    <p>Για ραντεβού ή ερωτήσεις, στείλτε email στο <a href="mailto:ellyweddings@example.com">ellyweddings@example.com</a></p>
+    <p>Ακολουθήστε με στο Instagram: <a href="https://instagram.com/ellyweddings" target="_blank">@ellyweddings</a></p>
+  </section>
+
+  <footer>
+    &copy; 2025 Elegant Weddings Athens by Elly. All rights reserved.
+  </footer>
+</body>
+</html>
